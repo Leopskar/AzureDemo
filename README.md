@@ -5,7 +5,7 @@ Azure code to facilitate Infrastructure as Code.
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
 # Deployment
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/Leopskar/AzureDemo/blob/43360cd59bacfff1d69b467d4a15b7310603bb27/TIKT_ManagedServices_permaccess.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2FLeopskar%2FAzureDemo%2Fmain%2FTIKT_ManagedServices_permaccess.json)
 
 
 
